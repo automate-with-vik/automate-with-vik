@@ -2,11 +2,12 @@
 
 🚀 **Network Engineer | Transitioning into Network Automation**
 
-Welcome to my GitHub! 
+#### Welcome to my GitHub! 
 I am a Network Engineering Consultant specializing in optimizing network performance, driving automation, and deploying scalable infrastructure. Experienced with wireless and fiber technologies, performance testing tools like OctoScope, IXIA IxLoad, and TRex, and skilled in advanced troubleshooting. Proficient in Python and Linux shell scripting, with hands-on experience configuring enterprise-grade Dell and HPE server hardware. Skilled in test planning, functional and end-to-end validation, and thorough root cause analysis. Currently, I am focused on enhancing my capabilities in network automation, CI/CD workflow implementation, and next-generation firewall technologies to design resilient and future-ready network environments.
+
 ---
 
-## 💼 What I Bring
+### 💼 What I Bring
 
 - 🔌 Strong foundation in networking
 - ⚙️ Automation with Python (Netmiko, NAPALM, REST APIs)
@@ -16,7 +17,7 @@ I am a Network Engineering Consultant specializing in optimizing network perform
 
 ---
 
-## 🧪 Current Focus
+### 🧪 Current Focus
 
 - Building automation scripts and playbooks for enterprise networking tasks
 - Designing CI/CD pipelines for network configuration validation
@@ -25,7 +26,7 @@ I am a Network Engineering Consultant specializing in optimizing network perform
 
 ---
 
-## 🧰 Tools & Technologies
+### 🧰 Tools & Technologies
 
 `Python` · `Ansible` · `Netmiko` · `NAPALM` · `RESTCONF/NETCONF`  
 `pyATS` · `Paramiko` · `GitHub Actions` · `Rest API`  
@@ -33,7 +34,7 @@ I am a Network Engineering Consultant specializing in optimizing network perform
 
 ---
 
-## 📁 Featured Projects *(Coming Soon)*
+### 📁 Featured Projects *(Coming Soon)*
 
 - 🔧 **netmiko-scripts** – Python scripts for CLI automation across multi-vendor devices  
 - ⚙️ **ansible-networking** – Modular Ansible playbooks for provisioning & config backups  
@@ -45,7 +46,7 @@ I am a Network Engineering Consultant specializing in optimizing network perform
 
 ---
 
-## 🎯 Certifications knowledge
+### 🎯 Certifications knowledge
 
 - ✅ Familiar with Cisco Certified Network Professional (CCNP) concepts and technologies
 - 🧪 Preparing for **Cisco DevNet Professional** (DEVCOR + ENAUTO)
@@ -53,7 +54,7 @@ I am a Network Engineering Consultant specializing in optimizing network perform
 
 ---
 
-## 📚 Learning In Progress
+### 📚 Learning In Progress
 
 - ☁️ Network Automation with Python and Bash/Shell scripting  
 - 🔄 GitOps workflows for config management and testing  
@@ -61,7 +62,7 @@ I am a Network Engineering Consultant specializing in optimizing network perform
 
 ---
 
-## 📫 Let’s Connect
+### 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vikrant-shinde/)
 - [Email](vsvikrantshinde@gmail.com)
